@@ -1,3 +1,3 @@
 # C# Practice Code
 
-Code for practice problems for CSC 204.
+Code for practice problems for CSC 204
